@@ -38,6 +38,19 @@ The website runs without a framework, external fonts or third-party runtime depe
 
 The repository includes the complete website source, a README with setup instructions, a design guide, a workflow editing guide, validation notes, security guidance and contribution instructions.
 
+#### Project guides
+
+Direct links for collaborators with repository access:
+
+| Guide | What you will find |
+| --- | --- |
+| [Setup and troubleshooting](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/README.md) | How to run the website and resolve common local setup issues |
+| [Design guide](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/docs/DESIGN.md) | Colours, typography, responsive layouts and interaction decisions |
+| [Workflow editing guide](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/docs/WORKFLOW.md) | How to add statuses, edit branches and connect next steps |
+| [Validation notes](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/docs/VALIDATION.md) | Completed checks and the manual verification checklist |
+| [Security and browser data](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/SECURITY.md) | Hosting access controls and how saved notes behave |
+| [Contribution guide](https://github.com/MrZeeed/application-tree-for-the-uk-university-application-process/blob/main/CONTRIBUTING.md) | How to prepare, check and describe a change |
+
 **The project repository is private.** Repository and documentation links require access. The current-status marker and notes are saved in the browser where the website is used.
 
 ---
